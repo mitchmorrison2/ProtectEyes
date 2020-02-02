@@ -3,6 +3,7 @@ This program is designed to dim your screen every 20 minutes for 20 seconds so y
 
 # Requirements:
 Python 3 
+Windows Computer
 
 # Install:
 If you do not have Python3 installed on your Windows machine:
