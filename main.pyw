@@ -70,7 +70,7 @@ while True:
         is_running = False
 
     if (is_running == True):
-        if (time_passed >= int(break_time)):
+        if (time_passed >= int(break_time) * 60):
             turn_off_screen(int(dim_screen_time))
             turn_on_screen()
             time_passed = 0
