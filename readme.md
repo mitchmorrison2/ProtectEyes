@@ -7,7 +7,7 @@ Python 3
 
 # Install:
 If you do not have Python3 installed on your Windows machine:
-  1. Click this link (https://www.python.org/downloads/windows/) and download Windows x86-64 executable installer
+  1. Click this link (https://www.python.org/downloads/windows/) and download #Windows x86-64 executable installer
   2. Open the downloaded zip file and run through Python window install steps
  
 # Run:  
