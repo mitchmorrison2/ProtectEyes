@@ -4,7 +4,7 @@ import os, time, wmi, platform
 current_brightness = wmi.WMI(namespace='wmi').WmiMonitorBrightness()[0].CurrentBrightness
 user_system = platform.system()
 
-if (user_system != 'Windows'):
+if user_system != 'Windows':
     sg.popup('This app only works in Windows')
     exit(0)
 
