@@ -15,7 +15,7 @@ Once Python3 is downloaded:
   1. Download zip file to desired location and extract all contents
   3. Once folder is in desired location, click on the folder and click 'copy path'
   4. Open Windows Command Line (CMD) and type 'cd [path]' where the path is what you have just copied. Hit 'enter'
-  5. Run the command 'python3 install.py' (Your command prompt should download a few necessary requirements)
+  5. Once you are in the folder inside the command line run the command 'python3 install.py' (Your command prompt should download a few necessary requirements)
   6. Run the command 'python3 main.pyw'
   7. Keep those eyes healthy!
  
