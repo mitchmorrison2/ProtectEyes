@@ -1,6 +1,5 @@
 # Protect Your Eyes
-
-This software is very simple. Follow the steps below and use. 
+This program is designed to dim your screen every 20 minutes for 20 seconds so you can refocus your eyes and keep them from straining. There have been numerous studies that show looking at objects ~20 feet away for 20 seconds reduces strain on your eyes after looking at a screen for a prolonged period.
 
 # Requirements:
 Python 3 
